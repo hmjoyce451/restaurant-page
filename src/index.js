@@ -3,6 +3,7 @@ import displayMenu from './menu';
 import displayContact from './contact';
 import displayNav from './navBar';
 import removeContent from './removeContent';
+import "/style.css";
 
 displayNav();
 loadHomepage();
